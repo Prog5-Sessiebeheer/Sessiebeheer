@@ -13,7 +13,7 @@ namespace EvenementenAPI.Models.DAL
             public DbSet<Sessie> Sessies { get; set; }
         
 
-        public SessieContext()
+        public SessieContext():base("def")
         {
             Database.SetInitializer<SessieContext>(new SessieInitializer());
 

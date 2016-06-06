@@ -312,6 +312,7 @@
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery.mobile-1.4.5.js" />
     <Content Include="Scripts\jquery.mobile-1.4.5.min.js" />
+    <Content Include="Scripts\MijnScript.js" />
     <Content Include="Web.config" />
     <Content Include="Scripts\jquery.mobile-1.4.5.min.map" />
   </ItemGroup>

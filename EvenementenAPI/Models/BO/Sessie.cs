@@ -9,5 +9,6 @@ namespace EvenementenAPI.Models.BO
     {
         public int ID { get; set; }
         public string Naam { get; set; }
+        public int MyProperty { get; set; }
     }
 }
