@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenementenAPI", "EvenementenAPI\EvenementenAPI.csproj", "{A4DFDC3C-30EF-4DCF-96A9-0D905036B7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenementenFront", "EvenementenFront\EvenementenFront.csproj", "{D233FC33-C6CB-4307-83E3-F29D1467EA7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4DFDC3C-30EF-4DCF-96A9-0D905036B7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4DFDC3C-30EF-4DCF-96A9-0D905036B7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4DFDC3C-30EF-4DCF-96A9-0D905036B7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D233FC33-C6CB-4307-83E3-F29D1467EA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D233FC33-C6CB-4307-83E3-F29D1467EA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D233FC33-C6CB-4307-83E3-F29D1467EA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D233FC33-C6CB-4307-83E3-F29D1467EA7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
